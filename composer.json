@@ -13,7 +13,8 @@
     "require": {},
     "autoload": {
         "classmap": [
-            "src/"
+            "src/",
+            "src/Controller"
         ]
     },
     "extra": {
