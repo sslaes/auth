@@ -1,0 +1,14 @@
+{
+    "name": "sslaes/auth",
+    "description": "Auth and user-management package for LAES ecosystem",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "SmallSharky",
+            "email": "kizzyol76@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
