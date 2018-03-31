@@ -1,5 +1,5 @@
 
-namespace SSLAES\Auth
+namespace Sslaes\Auth
 
 use App\Http\Controllers\Controller;
 

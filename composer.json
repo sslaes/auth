@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers":[
-                "SSLAES\\Auth\\laesAuthServiceProvider"
+                "Sslaes\\Auth\\laesAuthServiceProvider"
             ]        
         }
     }

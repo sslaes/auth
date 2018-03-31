@@ -1,6 +1,6 @@
 <?php
 
-namespace SSLAES\Auth;
+namespace Sslaes\Auth;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -25,6 +25,6 @@ class laesAuthServiceProvider extends ServiceProvider
     {
         //
         include __DIR__.'/routes/web.php';
-        $this->app->make('SSLAES\Auth\AuthController')
+        $this->app->make('Sslaes\Auth\AuthController')
     }
 }

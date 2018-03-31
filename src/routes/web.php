@@ -2,5 +2,5 @@
 
 Route::get(
     'Auth', 
-    'SSLAES\Auth\AuthController@index'
+    'Sslaes\Auth\AuthController@index'
 )
