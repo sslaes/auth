@@ -1,4 +1,4 @@
-
+<?php
 
 Route::get(
     'Auth', 
