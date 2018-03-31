@@ -1,5 +1,5 @@
-
-namespace Sslaes\Auth
+<?php
+namespace Sslaes\Auth;
 
 use App\Http\Controllers\Controller;
 
